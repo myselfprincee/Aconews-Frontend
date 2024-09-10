@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Morn-Regular";
+    src: url('./assets/fonts/Morn-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: "Morn-Bold";
+    src: url('./assets/fonts/Morn-Bold.woff2') format('woff2');
+}
+@font-face {
+    font-family: "Causten-Regular";
+    src: url('./assets/fonts/Causten-Regular.otf') format('truetype');
+}
+@font-face {
+    font-family: "Causten-Regular";
+    src: url('./assets/fonts/Causten-Regular.otf') format('truetype');
+}
+
+body{
+    font-family: 'Causten-Regular', sans-serif;
+}
